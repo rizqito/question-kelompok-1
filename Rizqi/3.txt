@@ -1,0 +1,3 @@
+3. Jelaskan mengenai scrum events yang kamu ketahui.
+jawab :
+- scrum event merupakan pembagian atau tahapan dalam pembuatan sebuah product. contohnya sprint1,sprint2 dst. yang mana kita harus menyelesaikan fitur sprint1 terlebih dahulu karena tingkat urgent yang tinggi.

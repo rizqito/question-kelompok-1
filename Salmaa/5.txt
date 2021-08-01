@@ -1,0 +1,2 @@
+git pull untuk melakukan download dan merge sekaligus
+git fetch untuk mendownload tanpa melakukan merge secara langsung

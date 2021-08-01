@@ -1,0 +1,4 @@
+Design thinking merupakan metode yang mendesain pencarian solusi untuk menyelesaikan permasalahan tertentu. 
+Design Thinking berguna memecahkan masalah yang kompleks yang belum terdefinisi secara jelas atau belum ditemukan solusinya 
+terbaiknya dengan cara memahami kebutuhan customer, dengan menciptakan banyak ide serta melakukan pendekatan langsung melalui 
+pembuatan prototype dan pengujian langsung.

@@ -1,0 +1,3 @@
+git init = memulai inisiasi
+git remote = untuk menggabungkan git lokal dengan git hub
+git status = mengecek status

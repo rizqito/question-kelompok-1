@@ -1,0 +1,3 @@
+product owner adalah yang merepresentasikan market dan memberi gambaran solusi untuk market tersebut
+scrump master adalah yang memimpin tim developer
+developer adalah yang memecahkan solusi secara teknis

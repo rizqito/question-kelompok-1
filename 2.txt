@@ -1,0 +1,8 @@
+- product owner
+    product owner mempunyai peran yang bertanggung jawab untuk memaksimalkan potensi bisnis dari produk yang sedang dikembangkan.
+
+- development team
+    tim yang tergabung dan bekerja untuk mengembangkan produk pada tiap sprint yang akan dijalankan. tim ini mengembangkan feature2 yang lebih spesifik.
+
+- scrum master
+    scrum master bertanggung jawab dalam pengawasan, lebih spesifiknya scrum master bertanggung jawab untuk memastikan jalannya Scrum pada suatu tim maupun organisasi. Hal ini dilakukan dengan membantu setiap orang yang terlibat untuk memahami teori dan penerapan dari kerangka Scrum.

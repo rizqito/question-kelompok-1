@@ -1,0 +1,1 @@
+git pull untuk mengambil projek ke workspace. sedangkan git fetch hanya ke ... yang ke-3 dari kiri lupa namanya hehe, sebelahkanan index.

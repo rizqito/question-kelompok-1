@@ -1,0 +1,5 @@
+- sprint planning
+    Seperti namanya tahapan ini merupakan bagian paling awal dari sprint dimana akan menjadi event yang meng-inisiasi jalannya sprint.
+
+- sprint
+    Sprint merupakan detak jantung dari jalannya kerangka Scrum, disini dimana proses kreatif dan usaha diberikan untuk mengembangkan produk.

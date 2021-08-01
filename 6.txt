@@ -1,0 +1,14 @@
+- git init
+    untuk membuat folder projek bisa mengakses command2 git yang lainnya
+
+- git pull
+    untuk mengkopi data dari repository
+
+- git status
+    untuk mengecek status
+
+- git checkout -b "nama branch"
+    untuk membuat branch
+
+- git add .
+     untuk menambah semua file ke indeks

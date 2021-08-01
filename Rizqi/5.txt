@@ -1,0 +1,4 @@
+5. Apa beda git pull dan git fetch?
+jawab :
+- git pull merupakan perintah menarik data/perubahan dengan melakukan merge secara langsung/
+- git fetch merupakan perintah untuk menarik data/perubahan tanpa merge, biasanya digunakan untuk mengetahui perubahan apa saja yang ada pada branch tersebut.

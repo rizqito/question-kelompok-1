@@ -1,0 +1,5 @@
+2. Jelaskan peran product owner, developer dan scrum master!
+jawab :
+- product owner berperan sebagai penentu atau menentukan sebuah product yang akan dibuat, mengusulkan sebuah fitur dan merupakan tahap awal pembuatan product.
+- developer berperan sebagai pembuat sebuah fitur yang telah ditentukan oleh product owner, role developer contohnya seperti front end dan back end developer yang mempunyai tugas masing-masing
+- scrum master berperan sebagai pengelola atau pendukung jalannya management yang menggunakan tools seperti asana. me management status pekerjaan dari tools tersebut

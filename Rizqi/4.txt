@@ -1,3 +1,0 @@
-4. Kenapa kita harus menggunakan version control system untuk berkolaborasi dalam mengembangkan aplikasi?
-jawab :
-- agar memudahkan team dalam mengerjakan sebuah produk, membagi pekerjaan agar cepat terselesaikan, dan dapat mengerjakan secara langsung tanpa menunggu perubahan dari teman.
